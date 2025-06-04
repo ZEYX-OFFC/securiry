@@ -1,3 +1,5 @@
-  [
-    {"key": "MATRIX#01", "expires": "2025-06-05T23:59:59Z"},
-  ]
+[
+  "TESTKEY",
+  "MATRIXV1",
+  "MATRIXADMIN"
+]
